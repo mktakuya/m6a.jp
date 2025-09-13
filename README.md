@@ -1,4 +1,4 @@
-blog
+m6a.jp
 =====
 
-Rails でブログを作るまでのつなぎ
+mktakuya のWebサイト
