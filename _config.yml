@@ -27,7 +27,5 @@ url: ""
 twitter_username: mktakuya
 github_username:  mktakuya
 
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
